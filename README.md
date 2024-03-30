@@ -29,7 +29,7 @@ cd directory
 ```bash 
 python server.py
 ```
-4. Connect client.py with the server
+4. Connect client.py with the server on another command based terminal (for each client)
 ```bash 
 python client.py
 ```
